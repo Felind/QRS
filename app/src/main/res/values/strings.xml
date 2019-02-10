@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRS</string>
+    <string name="turn_on_flashlight">flash ON</string>
+    <string name="turn_off_flashlight">flash OFF</string>
+    <string name="message">place the code in the viewfinder to scan</string>
+    <string name="action_clearAll">CLEAR ALL</string>
+    <string name="export_all">EXPORT TO CSV</string>
+    <string name="scan">SCAN</string>
+</resources>
